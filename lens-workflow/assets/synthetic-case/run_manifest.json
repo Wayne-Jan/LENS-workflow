@@ -1,0 +1,14 @@
+{
+  "case_id": "FICTIONAL-DEMO-001",
+  "kind": "hand_authored_example",
+  "workflow_version": "portable-1",
+  "roles": {},
+  "revision_rounds": 0,
+  "semantic_audit_performed": false,
+  "semantic_reaudit_after_final_revision": false,
+  "unresolved_ticket_ids": [],
+  "limitations": [
+    "Hand-authored fictional fixture; no model generation, semantic audit, or benchmark evaluation was performed.",
+    "Structural validation alone does not verify source support or legal correctness."
+  ]
+}

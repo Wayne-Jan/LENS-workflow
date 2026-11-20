@@ -1,0 +1,50 @@
+{
+  "case_id": "FICTIONAL-DEMO-001",
+  "sections": {
+    "facts": {
+      "budget_chars": 200,
+      "allowed_source_ids": [
+        "CH_01"
+      ],
+      "critical_source_ids": [
+        "CH_01"
+      ]
+    },
+    "defense": {
+      "budget_chars": 200,
+      "allowed_source_ids": [
+        "CH_02"
+      ],
+      "critical_source_ids": [
+        "CH_02"
+      ]
+    },
+    "opinions": {
+      "budget_chars": 200,
+      "allowed_source_ids": [
+        "CH_03"
+      ],
+      "critical_source_ids": [
+        "CH_03"
+      ]
+    },
+    "verdict": {
+      "budget_chars": 200,
+      "allowed_source_ids": [
+        "CH_04"
+      ],
+      "critical_source_ids": [
+        "CH_04"
+      ]
+    },
+    "reasoning": {
+      "budget_chars": 200,
+      "allowed_source_ids": [
+        "CH_05"
+      ],
+      "critical_source_ids": [
+        "CH_05"
+      ]
+    }
+  }
+}
