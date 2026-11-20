@@ -76,4 +76,8 @@ For evaluation, distinguish expert-reference coverage, judgment-source support, 
 
 This skill accompanies the research manuscript **LENS: An Inspectable Framework for Source-Grounded Summarization of Criminal Medical Negligence Judgments**. Publication status and a permanent article identifier are not asserted by this repository. See [release scope](docs/release-scope.md) for the adaptation decisions and exclusions.
 
-No real case records, expert reference summaries, participant ratings, API credentials, or private machine paths are included. Use only materials you are authorized to process and share. This repository currently has no open-source license grant; the rights holders can add the intended license separately.
+No real case records, expert reference summaries, participant ratings, API credentials, or private machine paths are included. Use only materials you are authorized to process and share.
+
+## License
+
+The workflow instructions, documentation, validation script, and fictional example distributed in this repository are available under the [MIT License](LICENSE). This license does not cover external judgments, research data, model services, or other materials that are not included here.

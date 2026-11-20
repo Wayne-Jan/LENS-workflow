@@ -1,5 +1,6 @@
 ---
 name: lens-workflow
+license: MIT
 description: Apply the LENS evidence-planning, source-linked drafting, and bounded audit/revision workflow to authorized legal judgments. Use for reusable legal-summary workflows with replaceable model roles, not for claiming reproduction of historical benchmark results.
 ---
 
